@@ -3,9 +3,6 @@
 
 Donanım gereksinimi yoktur, sadece sunucunuza kurulum yapabilirsiniz (çoklu sunucu desteği yakında).
 
-(Opsiyonel) Node kurmak istemeyenler şu işlemi gerçekleştirebilir: e2733fa6
-
-(Opsiyonel) Ana bilgisayarınızda kurulum yapmak için buradan da yardımcı olabilirsiniz.
 
 ## Kurulum Adımları  
 
